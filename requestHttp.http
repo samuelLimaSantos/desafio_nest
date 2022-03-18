@@ -1,0 +1,445 @@
+POST http://localhost:3000/users HTTP/1.1
+content-type: application/json
+
+[
+  {
+    "username": "CherryOrtiz",
+    "score": 699
+  },
+  {
+    "username": "LindsaySolomon",
+    "score": 606
+  },
+  {
+    "username": "BurtBolton",
+    "score": 623
+  },
+  {
+    "username": "MartinezAtkins",
+    "score": 84
+  },
+  {
+    "username": "DiazHuber",
+    "score": 600
+  },
+  {
+    "username": "KathrineOsborne",
+    "score": 326
+  },
+  {
+    "username": "AnthonyTorres",
+    "score": 299
+  },
+  {
+    "username": "BarreraPeterson",
+    "score": 185
+  },
+  {
+    "username": "GlennHayes",
+    "score": 437
+  },
+  {
+    "username": "JanieRios",
+    "score": 997
+  },
+  {
+    "username": "McmahonEvans",
+    "score": 783
+  },
+  {
+    "username": "SteinMccormick",
+    "score": 349
+  },
+  {
+    "username": "JohnstonIrwin",
+    "score": 246
+  },
+  {
+    "username": "DelgadoChaney",
+    "score": 728
+  },
+  {
+    "username": "WootenHarding",
+    "score": 664
+  },
+  {
+    "username": "SnyderDelaney",
+    "score": 736
+  },
+  {
+    "username": "JeniferHenson",
+    "score": 613
+  },
+  {
+    "username": "VioletRandolph",
+    "score": 857
+  },
+  {
+    "username": "GlendaDudley",
+    "score": 822
+  },
+  {
+    "username": "AvisCervantes",
+    "score": 238
+  },
+  {
+    "username": "ClarkKramer",
+    "score": 794
+  },
+  {
+    "username": "BarnettRamirez",
+    "score": 811
+  },
+  {
+    "username": "FrenchGonzales",
+    "score": 333
+  },
+  {
+    "username": "ClementsCarpenter",
+    "score": 247
+  },
+  {
+    "username": "CathleenJordan",
+    "score": 895
+  },
+  {
+    "username": "NixonCurtis",
+    "score": 371
+  },
+  {
+    "username": "McphersonFry",
+    "score": 974
+  },
+  {
+    "username": "AlbaIngram",
+    "score": 40
+  },
+  {
+    "username": "KaraLangley",
+    "score": 915
+  },
+  {
+    "username": "TishaShort",
+    "score": 325
+  },
+  {
+    "username": "SusanneLopez",
+    "score": 956
+  },
+  {
+    "username": "DesireeBuckley",
+    "score": 468
+  },
+  {
+    "username": "AbigailWallace",
+    "score": 220
+  },
+  {
+    "username": "JanaSavage",
+    "score": 96
+  },
+  {
+    "username": "ReevesMullins",
+    "score": 889
+  },
+  {
+    "username": "FreemanEverett",
+    "score": 569
+  },
+  {
+    "username": "DellaRoberts",
+    "score": 621
+  },
+  {
+    "username": "MinervaHickman",
+    "score": 305
+  },
+  {
+    "username": "MercadoStuart",
+    "score": 914
+  },
+  {
+    "username": "ChambersBerger",
+    "score": 723
+  },
+  {
+    "username": "BattleCrosby",
+    "score": 37
+  },
+  {
+    "username": "SimmonsLogan",
+    "score": 141
+  },
+  {
+    "username": "MichaelSerrano",
+    "score": 603
+  },
+  {
+    "username": "BurchTillman",
+    "score": 487
+  },
+  {
+    "username": "MarianCantu",
+    "score": 635
+  },
+  {
+    "username": "SawyerMclean",
+    "score": 705
+  },
+  {
+    "username": "LakeishaKoch",
+    "score": 932
+  },
+  {
+    "username": "NoraBuckner",
+    "score": 755
+  },
+  {
+    "username": "JosephSkinner",
+    "score": 211
+  },
+  {
+    "username": "AureliaKnox",
+    "score": 429
+  },
+  {
+    "username": "DominiqueHughes",
+    "score": 191
+  },
+  {
+    "username": "TammieCameron",
+    "score": 981
+  },
+  {
+    "username": "MercedesWashington",
+    "score": 332
+  },
+  {
+    "username": "QuinnLeach",
+    "score": 133
+  },
+  {
+    "username": "MargoWalter",
+    "score": 939
+  },
+  {
+    "username": "HardingDurham",
+    "score": 189
+  },
+  {
+    "username": "GayRojas",
+    "score": 642
+  },
+  {
+    "username": "IvyWagner",
+    "score": 11
+  },
+  {
+    "username": "LatishaCoffey",
+    "score": 760
+  },
+  {
+    "username": "NolaVance",
+    "score": 105
+  },
+  {
+    "username": "FryMayo",
+    "score": 40
+  },
+  {
+    "username": "BarlowWynn",
+    "score": 210
+  },
+  {
+    "username": "MckayOlson",
+    "score": 992
+  },
+  {
+    "username": "WorkmanFigueroa",
+    "score": 992
+  },
+  {
+    "username": "SusanaBishop",
+    "score": 833
+  },
+  {
+    "username": "RobersonGould",
+    "score": 136
+  },
+  {
+    "username": "RamonaBrooks",
+    "score": 538
+  },
+  {
+    "username": "KnappGraham",
+    "score": 338
+  },
+  {
+    "username": "MelendezPorter",
+    "score": 97
+  },
+  {
+    "username": "ForbesNorton",
+    "score": 550
+  },
+  {
+    "username": "TaylorGlover",
+    "score": 550
+  },
+  {
+    "username": "MagdalenaClay",
+    "score": 137
+  },
+  {
+    "username": "NicholsonMartinez",
+    "score": 5
+  },
+  {
+    "username": "RebaWarner",
+    "score": 493
+  },
+  {
+    "username": "SalinasBlair",
+    "score": 5
+  },
+  {
+    "username": "GarciaShaw",
+    "score": 539
+  },
+  {
+    "username": "IsabelAyers",
+    "score": 142
+  },
+  {
+    "username": "KramerMorales",
+    "score": 148
+  },
+  {
+    "username": "BryantSalinas",
+    "score": 464
+  },
+  {
+    "username": "WendyBurks",
+    "score": 211
+  },
+  {
+    "username": "CohenRyan",
+    "score": 99
+  },
+  {
+    "username": "KatrinaParks",
+    "score": 919
+  },
+  {
+    "username": "McculloughSalazar",
+    "score": 503
+  },
+  {
+    "username": "TraciSteele",
+    "score": 361
+  },
+  {
+    "username": "EllenRoss",
+    "score": 752
+  },
+  {
+    "username": "BeachBenjamin",
+    "score": 774
+  },
+  {
+    "username": "DeidreGardner",
+    "score": 858
+  },
+  {
+    "username": "DaleHumphrey",
+    "score": 526
+  },
+  {
+    "username": "RamirezFuller",
+    "score": 875
+  },
+  {
+    "username": "RaquelBoyle",
+    "score": 120
+  },
+  {
+    "username": "BassBowen",
+    "score": 765
+  },
+  {
+    "username": "JennyPeck",
+    "score": 853
+  },
+  {
+    "username": "FarrellRiddle",
+    "score": 874
+  },
+  {
+    "username": "CooleyHuff",
+    "score": 668
+  },
+  {
+    "username": "PattyEllison",
+    "score": 421
+  },
+  {
+    "username": "JocelynVaughan",
+    "score": 469
+  },
+  {
+    "username": "SharronMorton",
+    "score": 731
+  },
+  {
+    "username": "CarmenDelgado",
+    "score": 936
+  },
+  {
+    "username": "HensonDavid",
+    "score": 469
+  },
+  {
+    "username": "WebsterHerman",
+    "score": 878
+  }
+]
+
+###
+GET http://localhost:3000/users/8
+
+###
+GET http://localhost:3000/ranking
+
+###
+GET http://localhost:3000/ranking?numberOfPosition=3
+
+###
+POST http://localhost:3000/ranking
+
+# POST criação de usuários
+
+# - Persistir na tabela de users
+
+# POST para ordenar 
+
+# - Select id na tabela de users, orderby score DESC
+
+# select * from "user" u order by score desc, username asc;
+
+
+# - persistir a tabela de ranking com esses ids 
+
+# GET ranking
+
+# - select na tabela de ranking com um join em user
+
+
+
+
+
+
+
+
+
+
+
